@@ -1,4 +1,0 @@
-Name: EMONENA VICTORIA IRUOGHENE
-Matric number: 22CG031855
-Live URL of hosted application: https://llm-qa-project-tc39.onrender.com
-GitHub repository link: https://github.com/Victoria-Emonena/LLM-QA-PROJECT
